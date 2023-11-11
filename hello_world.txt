@@ -1,0 +1,1 @@
+Hi, this is me typing in the text file hello_world.txt.
